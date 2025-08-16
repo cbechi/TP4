@@ -1,0 +1,24 @@
+﻿# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+
+# Sensibles
+*.tfvars
+*.tfvars.json
+*.env
+*.env.*
+
+# Node / Functions
+**/node_modules/
+**/_pkg/
+*.zip
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

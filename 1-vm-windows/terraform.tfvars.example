@@ -1,0 +1,4 @@
+resource_group_name = "rg-cbechi"
+admin_username      = "cbechi"
+admin_password      = "TrabajoPractico4"
+allow_rdp           = false
